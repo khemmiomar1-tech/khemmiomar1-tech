@@ -1,5 +1,3 @@
-<img align="right" width="170" src="profile.jpg" alt="Omar Khemmi" />
-
 # Hi 👋, I'm Omar KHEMMI
 
 ### Data Engineer | Databricks • PySpark • Azure Data Factory • Delta Lake • Power BI
